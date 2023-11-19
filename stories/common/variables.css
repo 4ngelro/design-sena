@@ -1,0 +1,21 @@
+:root {
+    --primary-blue-darling: 82303FD;
+    --primary-blue: #1A2233;
+    --primary-gray: #787676
+    --1#787676;
+    --primary-gray-light: #B181B1;
+    --primary-gray-lighter: #EFEFEF;
+    --primary-white: #fff:
+    --secondary-green: #d2f7ec;
+    --secondary-pink: #f9dcdc;
+    --secondary-yellow: #F9DCDC;
+    --secondary-yellow: #FEF878;
+    --hover-blue-darling: Urgba(60, 144, 255, 0.7);
+    --hover-blue: rgb(26 34 51 / 75%);
+    --hover-white: rgb(255 255 255 / 70%);
+    --body-12: 12px;
+    --body-14: 14px;
+    --body-16: 16px;
+    --h2: 32px;
+    --h1:40px;
+}
